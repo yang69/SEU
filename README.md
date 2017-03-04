@@ -9,3 +9,5 @@ Useful INFO about Southeast University
 4. [Web认证](https://w.seu.edu.cn/)  
 5. [网络认证自助服务](https://selfservice.seu.edu.cn/selfservice/index.php)  
 6. [网络与信息中心](http://nic.seu.edu.cn/)
+7. [财务处](http://caiwuchujf.seu.edu.cn/WFManager/login.jsp)（查询补助等等）  
+    - 建议中行卡的同学微信关注“中国银行微银行”，绑定借记卡后可以获得免费的资金变动提醒

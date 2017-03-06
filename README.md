@@ -15,3 +15,5 @@ Useful INFO about Southeast University
 
 ## 实用贴
 1. [校内NAS](东南NAS.md)：电影、电视剧的资源服务器
+2. [ftp://ftp.nlabct.net/](ftp://ftp.nlabct.net/)：Vivado、MATLAB、Ubuntu、CentOS、Fedora、OpenSUSE、VirtualBox、JDK……等各种软件
+3. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)

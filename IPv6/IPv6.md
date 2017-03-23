@@ -1,6 +1,10 @@
-## IPv6科研指南  
+[返回首页](../README.md)
 
-### 方法一：更改IPv6的DNS  
+# IPv6科研指南  
+
+一言以蔽之，访问谷歌用方法一、看YouTube用方法一 + 方法二  
+
+## 方法一：更改IPv6的DNS  
 ------  
 
 **这两个DNS就是你的目标**  
@@ -9,7 +13,7 @@
 2001:4860:4860::8844
 ```  
 
-##### （1）Windows系统操作步骤  
+###### （1）Windows系统操作步骤  
 
 1. Step 1. 依次打开控制面板 -> 网络和Internet -> 网络和共享中心 ，点击左侧“更改适配器设置”  
 ![](IPv6_ChangeAdapter.png)  
@@ -29,29 +33,29 @@
 6. 好了，重新打开浏览器，输入https://www.google.com/ ，你应该能happy的科研了  
 
 
-##### （2）Ubuntu系统  
+###### （2）Ubuntu系统  
 
 大神你别逗我，你肯定会  
 
 
 
-### 方法二：替换hosts文件  
+## 方法二：替换hosts文件  
 ------  
+[hosts文件下载](../res/hosts)  
+[参考链接](https://serve.netsh.org/pub/ipv6-hosts/)  
+替换方法请自行百度  
 
-[参考链接](https://serve.netsh.org/pub/ipv6-hosts/)
 
-
-
-### 方法三：lantern  
+## 方法三：蓝灯/lantern（不需要有IPv6）  
 ------  
 
 一个蛮好用的翻墙软件  
-##### 官网  
+###### 官网  
 [https://getlantern.org/](https://getlantern.org/)  
 
 
 
-### 方法四：Tor Browser  
+## 方法四：Tor Browser  
 ------  
 这个还真的不推荐，非常难弄，而且非常慢  
 

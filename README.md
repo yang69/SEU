@@ -22,3 +22,8 @@ Useful INFO about Southeast University
 3. [ftp://ftp.nlabct.net/](ftp://ftp.nlabct.net/)  
     - Vivado、MATLAB、Ubuntu、CentOS、Fedora、OpenSUSE、VirtualBox、JDK……等各种软件  
 4. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)  
+
+
+## 班车信息  
+![](CNV.png)  
+![](schoolbus.jpg)  

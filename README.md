@@ -1,6 +1,6 @@
 # [SEU](http://www.seu.edu.cn/)  
 Useful INFO about Southeast University  
-<img src="./res/SEU.jpg" width = "255" height = "255" alt="SEU" align=center />  
+![](./res/SEU_small.jpg) 
 
 
 ## 置顶的重要内容  
@@ -40,4 +40,4 @@ Useful INFO about Southeast University
 
 ## 班车信息  
 ![](./res/CNV.png)  
-![](./res/schoolbus.jpg)  
+![](./res/schoolbus_small.jpg)  

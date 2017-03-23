@@ -1,5 +1,3 @@
-# [SEU](http://www.seu.edu.cn/)  
-Useful INFO about Southeast University  
 ![](./res/SEU_small.jpg) 
 
 

@@ -16,21 +16,27 @@
 ###### （1）Windows系统操作步骤  
 
 1. Step 1. 依次打开控制面板 -> 网络和Internet -> 网络和共享中心 ，点击左侧“更改适配器设置”  
+
 ![](IPv6_ChangeAdapter.png)  
 
 2. Step 2. 选中你的本地连接，右击，在右键菜单中点击“属性”  
+
 ![](IPv6_LocalConnection.png)  
 
 3. Step 3. 选中“Internet 协议版本 6 (TCP/IPv6)”，点击属性  
+
 ![](IPv6_Property.png)  
 
 4. Step 4. 选中“使用下面的DNS服务器地址”，填入如图所示的DNS地址  
+
 ![](IPv6_DNS.png)  
 
-5. Step 5. 关闭所有浏览器，打开CMD，输入如下命令：  
-```ipconfig /flushdns```  
+5. Step 5. 关闭所有浏览器，打开CMD，输入如下命令(当然，你要高兴重启的话也是可以的)：  
+```
+ipconfig /flushdns
+```  
 
-6. 好了，重新打开浏览器，输入https://www.google.com/ ，你应该能happy的科研了  
+6. 好了，重新打开浏览器，输入https://www.google.com/ ，你应该能happy的科研了。（注意开头一定要加上“https://” ，不要漏掉“s"）  
 
 
 ###### （2）Ubuntu系统  

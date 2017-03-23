@@ -1,11 +1,11 @@
-[返回首页](../README.md)
+[返回首页](../README.md)  
 
 # IPv6科研指南  
 
 一言以蔽之，访问谷歌用方法一、看YouTube用方法一 + 方法二  
 
-## 方法一：更改IPv6的DNS  
 ------  
+## 方法一：更改IPv6的DNS  
 
 **这两个DNS就是你的目标**  
 ```
@@ -39,15 +39,16 @@
 
 
 
-## 方法二：替换hosts文件  
 ------  
-[hosts文件下载](../res/hosts)  
-[参考链接](https://serve.netsh.org/pub/ipv6-hosts/)  
+## 方法二：替换hosts文件  
+
+1. [hosts文件下载](../res/hosts)  
+2. [参考链接](https://serve.netsh.org/pub/ipv6-hosts/)  
 替换方法请自行百度  
 
 
-## 方法三：蓝灯/lantern（不需要有IPv6）  
 ------  
+## 方法三：蓝灯/lantern（不需要有IPv6）  
 
 一个蛮好用的翻墙软件  
 ###### 官网  
@@ -55,8 +56,9 @@
 
 
 
-## 方法四：Tor Browser  
 ------  
+## 方法四：Tor Browser  
+
 这个还真的不推荐，非常难弄，而且非常慢  
 
 

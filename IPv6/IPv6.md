@@ -56,7 +56,8 @@ Step Done. 好了，重新打开浏览器，输入https://www.google.com/ ，你
 ------  
 ## 方法三：蓝灯/lantern（不需要有IPv6）  
 
-一个蛮好用的翻墙软件  
+不建议用，官网都上不去，教育网IPv6网络环境真的不错。就改DNS吧。  
+
 ###### 官网  
 [https://getlantern.org/](https://getlantern.org/)  
 
@@ -65,10 +66,15 @@ Step Done. 好了，重新打开浏览器，输入https://www.google.com/ ，你
 ------  
 ## 方法四：Tor Browser  
 
-这个还真的不推荐，非常难弄，而且非常慢  
+这个还真的不推荐，非常难弄，而且非常慢。  
 
+Tor主要是用来匿名的，同理，People don't need such thing.
 
 
 ## 附  
-当然，请确保你有IPv6连接。做完上面这些工作，你应该能自由使用Google学术、Gmail了。如果出现连接被重置，请确保你输入的网址最开头是https，一定要有那个“s”。  
+
+当然，请确保你有教育网IPv6连接。做完上面这些工作，你应该能自由使用Google学术、Gmail了。如果出现连接被重置，请确保你输入的网址最开头是https，一定要有那个“s”。  
+
+以上内容对运营商IPv6，貌似不管用。
+
 还有一些内容没写完，心情好再写~  

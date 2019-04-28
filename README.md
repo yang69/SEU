@@ -43,3 +43,9 @@
 
 ### 2. [九龙湖校区接驳车](http://zwc.seu.edu.cn/2015/0428/c4297a122944/page.htm)  
 ![](http://zwc.seu.edu.cn/_upload/article/8b/b3/f9ba7bfe44e590251108136d300d/1344970f-5e27-4db9-9903-4a128a3aa6c1.png)  
+
+## 公开信息  
+
+### 1. 年度预算  
+
+1. [2019年度预算PDF](http://cwc.seu.edu.cn/_upload/article/files/4a/27/fc9a01d24aef826b8c79aa054b21/96073077-059b-4f6b-a10b-c0c1327b0b44.pdf)

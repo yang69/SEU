@@ -49,3 +49,4 @@
 ### 1. 年度预算  
 
 1. [2019年度预算PDF](http://cwc.seu.edu.cn/_upload/article/files/4a/27/fc9a01d24aef826b8c79aa054b21/96073077-059b-4f6b-a10b-c0c1327b0b44.pdf)
+2. [2018年度决算PDF](https://cwc.seu.edu.cn/_upload/article/files/31/94/6fef8b174a45a5c1299b12f27ff2/02e0d7bf-b351-4d98-b025-8b17d658b9bd.pdf)
